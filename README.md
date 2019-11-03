@@ -1,0 +1,2 @@
+# hooktest
+Testing pre-hook
